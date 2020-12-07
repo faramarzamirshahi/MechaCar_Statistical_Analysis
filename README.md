@@ -32,7 +32,7 @@ If we compare the PSI of each manufacturing lot against the mean of population w
 ![PSI of each Manufacturer against mean population](suspcoil_subset_ttest.png)
 
 ## Study Design: MechaCar vs Competition.
-### We find out how MechaCar rates against the competition in terms of cost and fuel efficiency:
+### We want to find out how MechaCar rates against the competition in terms of cost and fuel efficiency:
 - Merge the competitor data with mechacar data and add a categorical field "manufacturer"<br>
 - The mpg and cost in all datasets must be numerical, continuous and normally distributed. Also the variance among each group should be very similar.<br>
 - Add a new field called car-type example: compact, sedan, SUV, AWD etc. <br>
